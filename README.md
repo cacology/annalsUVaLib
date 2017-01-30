@@ -43,6 +43,4 @@ optimized form, but want to proceed in this loose fashion to see what
 patterns emerge first.  For progress,
 see [annalsNotes.org](annalsNotes.org) which uses the org-ref module
 to link to a [bibliography of sources](sources.bib).
-=======
-# annalsUVaLib
->>>>>>> d3cbce7... Initial commit
+
