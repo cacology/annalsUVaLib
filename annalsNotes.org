@@ -1,0 +1,143 @@
+#+TITLE: Notes Towards Annals of the University of Virginia Libraries
+#+AUTHOR: James P. Ascher
+#+EMAIL: jpa4q@virginia.edu
+#+BIBLIOGRAPHY: sources.bib
+#+TODO: TODO WAIT | DONE
+#+OPTIONS: TOC:nil
+
+* Plan
+** Project Title
+   Annals of the University of Virginia Libraries
+** Goal
+   To chart the investigation into truth formed by the day-to-day
+   decisions in the Libraries.
+** Methods
+   - Chronology with citations for events (major and distinctive)
+   - identify themes and topics
+   - focus on the unit of the year
+** Design
+   One page per year with a number of sub-sections into meaningful
+   divisions of events, e.g. something like hiring, space, books,
+   public events, etc. these need to emerge from the materials after
+   freer tagging
+** Note design
+   Divided by decade and then year, each note has a "topic" :tags:
+   longer annotations (if needed), a citation and an exact (date)
+** Files
+   This one and my general bibliography file
+** Procedure
+   Read Clemons first and then reports and look for patterns
+* To Investigate
+** TODO Clemons cite:clemons54:library
+* Chronology
+** Earlier
+*** 1636 founding of Harvard
+    first educational property was 329 titles and over 400 volumes
+    [[cite:clemons54:library][, p. 2]]
+*** 1701 founding of Yale
+    books pooled by local minsters [[cite:clemons54:library][, p. 2]]
+*** 1734 Virginia General Assembly taxed liquor to buy books
+    for William and Mary; a penny a gallon on imported liquors
+    "provide dthat some part thereof should be spent in books."
+    [[cite:clemons54:library][, p. 3]]
+*** 1740 founding of University of Pennsylvania
+    inherited from Benjamin Franklin's Academy
+    [[cite:clemons54:library][, p. 2]]
+*** 1750 Governor Jonathan Belcher gift to Princeton
+    shortly after opening as College of New Jerey
+    https://library.princeton.edu/about/history
+    [[cite:clemons54:library][, p. 2]]
+*** 1750 King's College, which became Columbia
+    fine library of Hon. Joseph Murray [[cite:clemons54:library][,
+    p. 2]]
+*** 1763 Dartmouth's library collection
+    twenty volumes from William Dickson (six years before Dartmouth
+    acquired its charter) [[cite:clemons54:library][, p. 2]]
+** 19th Century
+*** 181-
+**** 1814 Jefferson attempted to buy Joseph Priestley's collection :purchase:acquisition:
+     for the collection that would eventually be UVa's, but failed for
+     lack of funds
+     [[cite:clemons54:library][, p. 3]]
+**** 1814 Library of Congress Library destroyed by British :fire:destruction:
+     Jefferson offered his collection for acquisition by the Federal
+     Government (August 1814) [[cite:clemons54:library][, p. 4]]
+**** 1816 Albemarle Academy absorbed into Central College (which just received appointment) :politics:purchases:
+     neither ever offered classes, but Jefferson was involved with
+     both and used them as models [[cite:clemons54:library][, p. 3]]
+**** 1819 UVa Charter from the Commonwealth of Virginia :politics:foundations:
+     [[cite:clemons54:library][, p. 3]]
+*** 182-
+**** 1824 Jefferson's appropriation from Va. Gen. Assem.   :politics:funding:
+     $50,000 based on possible reimbursement by the Federal Government
+     of state expenditures during the War of 1812 (winter 1823-24)
+     [[cite:clemons54:library][, p. 4]]
+**** 1824 Francis Walker Gilmer to England to buy books :acquisitions:purchasing:booksellers:
+     books and apparatuses for $6,000 "high hopes of laying the
+     foundations of a great library." list of classical titles from
+     Dr. Samuel Parr, and London bookseller Bohn was selected as the
+     University's English agent [[cite:clemons54:library][,
+     p. 4]]
+**** 1825 first consignment of books arrives                  :physicalBooks:
+     eight boxes of purchased volumes with the Bohn label in
+     Charlottesville (January 1825) [[cite:clemons54:library][, p. 4]]
+**** 1825 Jefferson asks for donations               :donations:solicitation:
+     in /Charlottesville Central Gazette/ and the /Richmond Enquirer/
+     asking for donations (April 1825) [[cite:clemons54:library][, p. 4--5]]
+**** 1825 American agent, Cummings, Hillard and Company (Boston) has a list of books :booksellers:catalog:deduplication:
+     7,000 volumes, $18,000, list of volumes by Jefferson (June 1825)
+     compared with catalog made by first Librarian, John Vaughan
+     Kean, not duplicating Bohn [[cite:clemons54:library][, p. 5]]
+**** 1825 First session of UVa                         :foundations:teaching:
+      [[cite:clemons54:library][, p. 3]]
+**** 1826 purchases fro Cummings, Hilliard and Company arrive :physicalBooks:storage:
+     stored in the pavilion on the West Lawn, now the Colonnade Club,
+     which was temporarily being used for the Library (winter of
+     1825-1826) [[cite:clemons54:library][, p. 5]]
+**** 1826 Jefferson witnessing the capital on top of a pillar of the Rotunda :Jefferson:Rotunda:buildings:
+      which would house the books of UVa for more than a century
+      (April, 1826) [[cite:clemons54:library][, p. vii]]
+**** 1826 Jefferson's death                                       :Jefferson:
+     (4 July 1826) [[cite:clemons54:library][, p. 5]]
+**** 1826 printed catalog authorized by the Faculty         :catalog:faculty:
+     (December 1826) [[cite:clemons54:library][, p. 5]]
+**** 1828 printed catalog completed by second Librarian, William Wertenbaker :catalog:purchases:donations:
+     purchased and donated volumes, followed Jefferson's
+     classification based on list for the Boston book agent, numbered
+     8,000 [[cite:clemons54:library][, p. 5]]
+*** 183-
+**** 1830 snapshot of collection sizes              :coverage:classification:
+     8,000 UVa, 30,000 Harvard, 8,500 Yale, 8,000 Princeton, 6,000
+     Brown, 3,500 for Dartmouth, 3,400 for William and Mary /American
+     Almanac/ coverage of UVa was all fields
+     [[cite:clemons54:library][, p. 6]]
+*** 189-
+**** 1895 Rotunda fire                        :Rotunda:buildings:destruction:
+      not much happened after Jefferson's Death until the fire of the
+      Rotunda; his statue saved, although the books lost (1895)
+      [[cite:clemons54:library][, p. viii, 1]]
+** 20th Century
+*** 190-
+*** 192-
+**** 1927 Harry Clemons becomes librarian                 :personnel:Clemons:
+      (1927) [[cite:clemons54:library][, p. ix]] was previously
+      "driven by the Chinese bandits from Nanking University" and the
+      first librarian with the rank of professor, also took a
+      refresher course at Columbia University, pun "All is not
+      literature that litters"
+      [[cite:clemons54:library][, p. xi]] 12 hour schedule, 8-2 and
+      then 8-2, longhand [[cite:clemons54:library][, p. xiv-xv]]
+*** 195-
+**** 1950 Harry Clemons term as librarian ends            :personnel:Clemons:
+      (1950) [[cite:clemons54:library][, p. ix]]
+* Visions
+** Librarian as guide to good books [[cite:clemons54:library][, p. x]]
+   Jefferson thought of this, Enlightenment tradition
+** Enlightenment project [[cite:clemons54:library][, p. xiv]]
+   "a living organism dedicated to the enlightenment of free human
+   beings.  He would find the Alderman Library, as thousands of
+   students and hundreds of scholars have found it, a free and happy
+   place.  In it the riches of human knowledge are not jealously
+   guarded by suspicious custodians, but they are gladly made available
+   to all who seek truth and wisdom, and at every official desk there
+   are helping hands."
