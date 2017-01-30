@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Annals of the University of Virginia Libraries
 
 The *Annals of English Literature 1475--1950* provide an elegant, yet
