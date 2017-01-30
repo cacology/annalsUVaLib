@@ -34,7 +34,7 @@ Refusing premature optimization, the project began with a sketch of
 a final form based on the *Annals* and also Neville Williams
 *Chronology of the Expanding World: 1492 to 1762*:
 
-![sketch][sketch.jpg]
+![sketch](sketch.jpg)
 
 Based on this sketch, I began an org-mode text-file of the major
 events, tagging items without pattern and doing minimal secondary
