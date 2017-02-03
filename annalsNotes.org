@@ -130,6 +130,12 @@
 *** 195-
 **** 1950 Harry Clemons term as librarian ends            :personnel:Clemons:
       (1950) [[cite:clemons54:library][, p. ix]]
+* Themes
+** Enlightenment library
+   it seems that the faculty librarian, central position of the
+   library and limited access for students suggests an
+   Enlightenment-style library; open stacks is an interesting moment,
+   then, for the libraries
 * Visions
 ** Librarian as guide to good books [[cite:clemons54:library][, p. x]]
    Jefferson thought of this, Enlightenment tradition
