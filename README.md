@@ -44,3 +44,17 @@ patterns emerge first.  For progress,
 see [annalsNotes.org](annalsNotes.org) which uses the org-ref module
 to link to a [bibliography of sources](sources.bib).
 
+After identifying the six areas that I would be recording, I prepared
+an Emacs forms-mode interface for entering just those items into a csv
+file.  I've picked the csv (with a tab separator) so that I can easily
+sort the entries as I develop them, but also because it should be easy
+to write a script to convert the entries into some sort of
+presentation format.  I've switched to MLA style citations for the
+sources, still listed in the bib.
+
+## Planned Enhancements
+
+At some point, using one of the completion modes to suggest
+completions for the tags would be nice.  I'd like to develop a small
+set and I think "company" is the one that mu4e uses.  Work on this
+next week, after you get some more entries.
