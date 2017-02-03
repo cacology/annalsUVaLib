@@ -58,3 +58,7 @@ At some point, using one of the completion modes to suggest
 completions for the tags would be nice.  I'd like to develop a small
 set and I think "company" is the one that mu4e uses.  Work on this
 next week, after you get some more entries.
+
+I need to tweak the code for the quotes of the CSV, which cause
+problems by not following the RFC's strictly.  If a field has a quote
+in it, it must be quoted and those quotes must be double.  That's all.
