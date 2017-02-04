@@ -45,12 +45,15 @@ see [annalsNotes.org](annalsNotes.org) which uses the org-ref module
 to link to a [bibliography of sources](sources.bib).
 
 After identifying the six areas that I would be recording, I prepared
-an Emacs forms-mode interface for entering just those items into a csv
-file.  I've picked the csv (with a tab separator) so that I can easily
+an Emacs forms-mode interface for entering just those items into a dsv
+file.  I've picked the dsv (with a tab separator) so that I can easily
 sort the entries as I develop them, but also because it should be easy
 to write a script to convert the entries into some sort of
 presentation format.  I've switched to MLA style citations for the
-sources, still listed in the bib.
+sources, still listed in the bib.  The makefile uses csvfix to convert
+this dsv file into standard csv which GitHub knows how to display, but
+which should also have greater usefulness in adhering to RFC4180
+and--later--to W3C standards for CSV on the web.
 
 ## Planned Enhancements
 
@@ -59,6 +62,5 @@ completions for the tags would be nice.  I'd like to develop a small
 set and I think "company" is the one that mu4e uses.  Work on this
 next week, after you get some more entries.
 
-I need to tweak the code for the quotes of the CSV, which cause
-problems by not following the RFC's strictly.  If a field has a quote
-in it, it must be quoted and those quotes must be double.  That's all.
+Investigate standards for CSV on the Web sometime:
+[https://www.w3.org/TR/2016/NOTE-tabular-data-primer-20160225/](https://www.w3.org/TR/2016/NOTE-tabular-data-primer-20160225/)
