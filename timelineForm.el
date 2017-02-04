@@ -6,11 +6,12 @@
 ;; Commentary: clean interface for the forms
 
 ;;; Code:
-(setq forms-file "timeline.csv")
+(setq forms-file "timeline.dsv")
 (setq forms-number-of-fields 6)
 (setq forms-read-only nil)
 (setq forms-field-sep "\t")
 (setq forms-multi-line "\^k")
+
 
 (setq forms-format-list
       (list
