@@ -57,4 +57,4 @@ and--later--to W3C standards for CSV on the web.
 
 ## Planned Enhancements
 
-See [issues](https://github.com/cacology/annalsUVaLib/)
+See [issues](https://github.com/cacology/annalsUVaLib/issues)
