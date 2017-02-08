@@ -11,7 +11,7 @@
 (setq forms-read-only nil)
 (setq forms-field-sep "\t")
 (setq forms-multi-line "\^k")
-
+(setq forms-insert-after t)
 
 (setq forms-format-list
       (list
