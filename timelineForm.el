@@ -6,7 +6,7 @@
 ;; Commentary: clean interface for the forms
 
 ;;; Code:
-(setq forms-file "timeline.dsv")
+(setq forms-file "timeline.csv")
 (setq forms-number-of-fields 6)
 (setq forms-read-only nil)
 (setq forms-field-sep "\t")
@@ -24,4 +24,17 @@
        "\n\nNotes : "    3
        "\nExact Date : "    4
        ))
+
+(defun csv-to-dsv-buffer ()
+  (shell-command-on-region (point-min) (point-max)
+                           "csvfix write_dsv -s \'\t\'" t t))
+(setq forms-read-file-filter '(csv-to-dsv-buffer))
+
+(defun dsv-to-csv-buffer ()
+  (shell-command-on-region (point-min) (point-max)
+                           "csvfix read_dsv -s \'\t\'" t t)
+  nil)
+(setq forms-write-file-filter 'dsv-to-csv-buffer)
+
+
 ;;; timelineForm.el ends here
